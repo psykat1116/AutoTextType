@@ -101,10 +101,21 @@ section{
     font-size: 60px;
     font-family: 'Bungee Spice', cursive;
 }
+.container{
+    border: 1px solid #fff;
+}
 
 .container h1{
     font-size: 40px;
     font-weight: 600;
+}
+.main{
+    width: 80vw;
+    height:30vw;border-radius: 20px;
+    backdrop-filter: blur(10px);
+    background:rgba(255, 255, 255, 0.422);
+    border: 1px solid #fff;
+
 }
 
 .txt-type > .txt {
